@@ -15,6 +15,6 @@ Splash Page:  ![Alt text](Images/Start.png?raw=true "Splash")
 
 Todo List: ![Alt text](Images/Todos.png?raw=true "Todo List")
 
-Purchased List: ![Alt text](Images/Completed.png?raw=true?raw=true "Completed Tasks")
+Completed Taks Page: ![Alt text](Images/Completed.png?raw=true?raw=true "Completed Tasks")
 
-Budgeting: ![Alt text](Images/Task.png?raw=true "Task Page")
+Task Page: ![Alt text](Images/task.png?raw=true "Task Page")
