@@ -7,7 +7,7 @@ https://hw2todolist-f3dff.web.app
 
 ## Description
 
-Todoly is a simple todo Single Page App made with Vue and Bootstrap as CSS framwork. Firebase is used for the database.
+Todoly is a simple todo Single Page App made with Vue and Bootstrap as CSS framework. Firebase is used for the database.
 
 ## Images
 
