@@ -1,19 +1,20 @@
-# CSCI 5117 Spring 2022 -- Module 2 Homework
+# Todoly
 
-
-Instructions can be [found on canvas](https://canvas.umn.edu/courses/291031/pages/homework-2)
-
-Please fill out all of the following sections to help us grade your submission:
-
-## Student (to be completed individually)
-
-* Luisa Jimenez jimen215@umn.edu
 
 ## Link to Site
 
 https://hw2todolist-f3dff.web.app
 
-## Challenge Task
+## Description
 
-* I started the challenge task: [no]
-* I completed the challenge task: [no]
+Todoly is a simple todo Single Page App made with Vue and Bootstrap as CSS framwork. Firebase is used for the database.
+
+## Images
+
+Splash Page:  ![Alt text](Images/Start.png?raw=true "Splash")
+
+Todo List: ![Alt text](Images/Todos.png?raw=true "Todo List")
+
+Purchased List: ![Alt text](Images/Completed.png?raw=true?raw=true "Completed Tasks")
+
+Budgeting: ![Alt text](Images/Task.png?raw=true "Task Page")
